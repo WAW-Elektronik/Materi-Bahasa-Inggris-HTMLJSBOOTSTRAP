@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Materi Bahasa Inggris</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 30px;
+      background-color: #f8f9fa;
+    }
+    h1 {
+      color: #2c3e50;
+    }
+    button {
+      margin: 5px;
+      padding: 10px 15px;
+      border: none;
+      background-color: #3498db;
+      color: white;
+      cursor: pointer;
+      border-radius: 5px;
+    }
+    button:hover {
+      background-color: #2980b9;
+    }
+    .content-box {
+      margin-top: 20px;
+      padding: 15px;
+      border: 1px solid #ccc;
+      background-color: white;
+      border-radius: 8px;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 10px;
+    }
+    th, td {
+      border: 1px solid #ddd;
+      padding: 8px;
+      text-align: left;
+    }
+    th {
+      background-color: #f1f1f1;
+    }
+  </style>
+</head>
+<body>
+  <h1>📘 Materi Bahasa Inggris</h1>
+  <p>Click a category below to explore:</p>
+
+  <button onclick="showContent('tenses')">Tenses</button>
+  <button onclick="showContent('primary')">Primary Auxiliary</button>
+  <button onclick="showContent('modal')">Modal Auxiliary</button>
+  <button onclick="showContent('semi')">Semi Auxiliary</button>
+  <button onclick="showContent('ConditionalSentences')">Conditional Sentences</button>
+  <button onclick="showContent('ordinalnumber')">Ordinal Number</button>
+  <button onclick="showContent('timeexpressions')">Time Expressions</button>
+  <button onclick="showContent('timebreame')">Time (British vs American)</button>
+
+  <div class="content-box" id="contentArea">
+    <p>Select a category to see the explanation.</p>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
