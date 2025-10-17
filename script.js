@@ -268,9 +268,305 @@ timebreame: `
   <tr><td>He’ll arrive at quarter to eight.</td><td>He’ll arrive at seven forty-five.</td>
 </table>
 </div>
-`};
+`,
+
+PhrasalVerb:`
+  <h2>Phrasal Verb</h2>
+  <p>Phrasal Verb adalah konstruksi frasa yang terdiri dari kata kerja (verb) yang diikuti oleh satu atau lebih kata depan (preposition) atau adverbia (adverb). Phrasal verb cenderung memiliki makna khusus yang tidak dapat dipahami hanya dengan merinci makna kata kerja dan kata depan atau adverbia yang membentuknya.</p>
+  <div style="overflow-x:auto;">
+  
+  <h2>Phrasal verb punya beberapa fungsi dan kegunaan.</h2>
+  <table>
+  <tr>
+    <th>No.</th>
+    <th>Fungsi / Kegunaan</th>
+    <th>Penjelasan</th>
+  </tr>
+  <tr><td>1</td><td>Ekspresi Informal</td><td>sering digunakan dalam situasi yang lebih santai dan informal, sehingga membantu berkomunikasi dengan cara yang lebih alami dan akrab.</td>
+  <tr><td>2</td><td>Variasi Makna</td><td>memberikan variasi makna tergantung pada konteks penggunaannya. Ini memungkinkan ekspresi yang lebih kaya dan nuansa dalam berbicara dan menulis.</td>
+  <tr><td>3</td><td>Bahasa Sehari-hari</td><td>banyak digunakan dalam bahasa sehari-hari oleh penutur asli bahasa Inggris. Memahami dan menggunakan phrasal verb membantu seseorang terlibat dalam percakapan sehari-hari dengan lebih lancar.</td>
+  <tr><td>4</td><td>Mengubah Intensitas atau Nuansa</td><td>Dengan menambahkan kata depan atau adverbia ke kata kerja, phrasal verb dapat mengubah intensitas atau nuansa makna kata kerja tersebut.</td>
+  <tr><td>5</td><td>Meningkatkan Keterampilan Mendengar</td><td>dapat membantu dalam memahami percakapan lisan yang menggunakan ungkapan-ungkapan ini, karena seringkali kata-kata ini digunakan secara umum dalam berbicara.</td>
+  <tr><td>6</td><td>Bahasa Sastra dan Media</td><td>banyak digunakan dalam bahasa sastra, pidato, dan media, sehingga memahami mereka dapat membantu seseorang dalam memahami karya sastra atau berita.</td>
+  <tr><td>7</td><td>Pewarisan Kultural</td><td>mencerminkan pewarisan kultural dan kebiasaan berbahasa dalam suatu masyarakat. Memahami penggunaan phrasal verb dapat memberikan wawasan tentang cara berbicara dan berkomunikasi dalam suatu budaya.</td>
+  <tr><td>8</td><td>Menghindari Kebosanan dalam Bahasa</td><td>memberikan variasi dan kreativitas dalam penggunaan kata kerja, membantu menghindari kebosanan dalam bahasa dan memberikan warna yang berbeda dalam komunikasi.</td>
+  </table>
+  </div>
+
+  <h2>Struktur Kalimat Phrasal Verb.</h2>
+  <table>
+  <tr>
+    <th>No.</th>
+    <th>Tipe Phrasal Verb</th>
+    <th>Struktur</th>
+    <th>Contoh</th>
+  </tr>
+  <tr><td>1</td><td>Kata Kerja + Kata Depan</td><td>Subyek + Kata Kerja + Kata Depan</td><td>She looked up the word in the dictionary.</td>
+  <tr><td>2</td><td>Kata Kerja + Kata Depan + Objek</td><td>Subyek + Kata Kerja + Kata Depan + Objek</td><td>He turned off the lights in the living room.</td>
+  <tr><td>3</td><td>Kata Kerja + Objek + Kata Depan</td><td>Subyek + Kata Kerja + Objek + Kata Depan</td><td>They took care of the issue before the deadline.</td>
+  <tr><td>4</td><td>Kata Kerja + Kata Depan + Objek + Kata Depan</td><td>Subyek + Kata Kerja + Kata Depan + Objek + Kata Depan</td><td>We need to catch up on our work during the weekend.</td>
+  <tr><td>5</td><td>Kata Kerja + Kata Depan + Objek + Kata Depan</td><td>Subyek + Kata Kerja + Objek + Kata Depan + Objek</td><td>She handed in her assignment to the teacher.</td>
+  </table>
+  </div>
+    <br> Perhatikan bahwa nggak semua phrasal verb memerlukan objek. Beberapa phrasal verb dapat digunakan tanpa objek, tergantung pada konteksnya. Pemahaman konteks dan makna phrasal verb tertentu akan membantu dalam memilih struktur kalimat yang sesuai.
+
+  <h2>Contoh Phrasal Verb.</h2>
+  <table>
+  <tr>
+    <th>No.</th>
+    <th>Contoh Phrasal Verb</th>
+    <th>Makna</th>
+  </tr>
+  <tr><td>1</td><td>Look up</td><td>Mencari informasi di buku, internet, atau sumber lainnya</td>
+  <tr><td>2</td><td>Turn off</td><td>Mematikan suatu perangkat atau lampu</td>
+  <tr><td>3</td><td>Give in</td><td>Menyerah dalam suatu argumen atau situasi</td>
+  <tr><td>4</td><td>Run out</td><td>Kehabisan atau kehabisan sesuatu</td>
+  <tr><td>5</td><td>Take off</td><td>Melepas pakaian atau pesawat terbang</td>
+  <tr><td>6</td><td>Bring up</td><td>Membahas suatu topik atau membesarkan anak</td>
+  <tr><td>7</td><td>Set up</td><td>Mendirikan atau menyusun sesuatu</td>
+  <tr><td>8</td><td>Break down</td><td>Mengalami kerusakan atau kegagalan</td>
+  <tr><td>9</td><td>Call off</td><td>Membatalkan suatu acara atau pertemuan</td>
+  <tr><td>10</td><td>Go on</td><td>Melanjutkan atau terus berlangsung</td>
+  <tr><td>11</td><td>Put off</td><td>Menunda suatu kegiatan atau rencana</td>
+  <tr><td>12</td><td>Bring in</td><td>Memperkenalkan atau membawa sesuatu ke dalam</td>
+  <tr><td>13</td><td>Look after</td><td>Menjaga atau merawat sesuatu atau seseorang</td>
+  <tr><td>14</td><td>Turn on</td><td>Menghidupkan suatu perangkat atau lampu</td>
+  <tr><td>15</td><td>Break up</td><td>Mengakhiri hubungan atau memecah menjadi bagian-bagian</td>
+  <tr><td>16</td><td>Get up</td><td>Bangun dari tidur atau berdiri</td>
+  <tr><td>17</td><td>Give up</td><td>Menyerah atau berhenti mencoba</td>
+  <tr><td>18</td><td>Run into</td><td>Bertemu secara kebetulan</td>
+  <tr><td>19</td><td>Take up</td><td>Memulai atau mengambil hobi atau aktivitas baru</td>
+  <tr><td>20</td><td>Bring out</td><td>Menerbitkan atau memperkenalkan sesuatu ke publik</td>
+  <tr><td>21</td><td>Settle down</td><td>Menetap atau meredakan</td>
+  <tr><td>22</td><td>Break out</td><td>Meletus atau mulai secara tiba-tiba</td>
+  <tr><td>23</td><td>Call up</td><td>Menghubungi seseorang melalui telepon</td>
+  <tr><td>24</td><td>Go over</td><td>Meninjau atau melewati suatu materi</td>
+  <tr><td>25</td><td>Put on</td><td>Memakai pakaian atau menyalakan suatu perangkat</td>
+  <tr><td>26</td><td>Bring back</td><td>Mengembalikan atau memulihkan sesuatu</td>
+  <tr><td>27</td><td>Look for</td><td>Mencari sesuatu atau seseorang</td>
+  <tr><td>28</td><td>Turn around</td><td>Berbalik atau mengubah arah</td>
+  <tr><td>29</td><td>Check out</td><td>Mengecek atau memeriksa sesuatu</td>
+  <tr><td>30</td><td>Get in</td><td>Masuk ke dalam suatu tempat atau kendaraan</td>
+
+  <h2>Contoh Kalimat Phrasal Verb.</h2>
+  <table>
+  <tr>
+    <th>No.</th>
+    <th>Contoh Phrasal Verb</th>
+    <th>Contoh Kalimat Phrasal Verb</th>
+    <th>Arti</th>
+  </tr>
+  <tr><td>1</td><td>Look up</td><td>She needed to look up the unfamiliar word in the dictionary</td><td>Dia perlu mencari kata yang tidak dikenal itu di kamus</td>
+  <tr><td>2</td><td>Turn off</td><td>Please remember to turn off the lights when you leave the room</td><td>Tolong matikan lampu ketika kamu meninggalkan ruangan</td>
+  <tr><td>3</td><td>Give in</td><td>After hours of negotiation, they finally decided to give in</td><td>Setelah berjam-jam negosiasi, mereka akhirnya memutuskan untuk menyerah</td>
+  <tr><td>4</td><td>Run out</td><td>We’ve run out of milk, so I need to go to the store</td><td>Kita kehabisan susu, jadi saya harus pergi ke toko</td>
+  <tr><td>5</td><td>Take off</td><td>The plane is about to take off; please fasten your seatbelt</td><td>Pesawat akan lepas landas; silakan pasang sabuk pengaman Anda</td>
+  <tr><td>6</td><td>Bring up</td><td>It’s not easy to bring up sensitive topics in a conversation</td><td>Tidak mudah membicarakan topik sensitif dalam percakapan</td>
+  <tr><td>7</td><td>Set up</td><td>They’re planning to set up a new business in the city</td><td>Mereka berencana untuk mendirikan bisnis baru di kota</td>
+  <tr><td>8</td><td>Break down</td><td>The car suddenly broke down on the side of the road</td><td>Mobil tiba-tiba mogok di pinggir jalan</td>
+  <tr><td>9</td><td>Call off</td><td>Due to bad weather, they had to call off the outdoor event</td><td>Karena cuaca buruk, mereka harus membatalkan acara di luar ruangan</td>
+  <tr><td>10</td><td>Go on</td><td>The show must go on despite technical difficulties</td><td>Pertunjukan harus terus berlanjut meskipun ada masalah teknis</td>
+  <tr><td>11</td><td>Put off</td><td>They decided to put off the meeting until next week</td><td>Mereka memutuskan untuk menunda pertemuan hingga minggu depan</td>
+  <tr><td>12</td><td>Bring in</td><td>The company plans to bring in new policies for employee welfare</td><td>Perusahaan berencana untuk memperkenalkan kebijakan baru untuk kesejahteraan karyawan</td>
+  <tr><td>13</td><td>Look after</td><td>She always makes sure to look after her younger siblings</td><td>Dia selalu memastikan untuk menjaga adik-adiknya</td>
+  <tr><td>14</td><td>Turn on</td><td>Don’t forget to turn on the heating before it gets too cold</td><td>Jangan lupa untuk menyalakan pemanas sebelum terlalu dingin</td>
+  <tr><td>15</td><td>Break up</td><td>They decided to break up after years of being in a relationship</td><td>Mereka memutuskan untuk putus setelah bertahun-tahun berpacaran</td>
+  <tr><td>16</td><td>Get up</td><td>I have to get up early tomorrow for an important meeting</td><td>Saya harus bangun pagi besok untuk pertemuan penting</td>
+  <tr><td>17</td><td>Give up</td><td>Despite facing challenges, she refused to give up on her dreams</td><td>Meskipun dihadapkan pada tantangan, dia menolak untuk menyerah pada mimpinya</td>
+  <tr><td>18</td><td>Run into</td><td>I unexpectedly run into my old friend at the grocery store</td><td>Saya secara tak terduga bertemu dengan teman lama saya di toko kelontong</td>
+  <tr><td>19</td><td>Take up</td><td>He decided to take up painting as a new hobby</td><td>Dia memutuskan untuk memulai melukis sebagai hobi baru</td>
+  <tr><td>20</td><td>Bring out</td><td>The author plans to bring out a new book next month</td><td>Penulis berencana untuk menerbitkan buku baru bulan depan</td>
+  <tr><td>21</td><td>Settle down</td><td>After years of traveling, they decided to settle down in a quiet town</td><td>Setelah bertahun-tahun berkeliling, mereka memutuskan untuk menetap di sebuah kota yang tenang</td>
+  <tr><td>22</td><td>Break out</td><td>A fire broke out in the building, and everyone had to evacuate</td><td>Api meledak di gedung, dan semua orang harus dievakuasi</td>
+  <tr><td>23</td><td>Call up</td><td>I will call up my friend to invite him to the party</td><td>Saya akan menghubungi teman saya untuk mengundangnya ke pesta</td>
+  <tr><td>24</td><td>Go over</td><td>Let’s go over the details of the plan one more time</td><td>Mari kita tinjau kembali rincian rencana tersebut sekali lagi</td>
+  <tr><td>25</td><td>Put on</td><td>She always takes time to put on makeup before going out</td><td>Dia selalu meluangkan waktu untuk berias sebelum pergi</td>
+  <tr><td>26</td><td>Bring back</td><td>The song brings back memories of our high school days</td><td>Lagu itu mengingatkan pada kenangan masa SMA kita</td>
+  <tr><td>27</td><td>Look for</td><td>I need to look for my keys; I can’t find them anywhere</td><td>Saya perlu mencari kunci saya; saya tidak bisa menemukannya di mana pun</td>
+  <tr><td>28</td><td>Turn around</td><td>The economy started to turn around after the implementation of new policies</td><td>Ekonomi mulai membaik setelah penerapan kebijakan baru</td>
+  <tr><td>29</td><td>Check out</td><td>Before leaving the hotel, make sure to check out at the front desk</td><td>Sebelum meninggalkan hotel, pastikan untuk check out di meja depan</td>
+  <tr><td>30</td><td>Get in</td><td>We need to get in the car and leave before the traffic gets worse</td><td>Kita perlu masuk ke mobil dan pergi sebelum lalu lintas semakin parah</td>
+`,
+
+Idiom:`
+  <h2>Idiom</h2>
+  <p>Idiom adalah sekelompok kata atau frasa yang memiliki makna kiasan, berbeda dari makna harfiah dari setiap kata penyusunnya. Makna idiom tidak bisa diuraikan hanya dengan mendefinisikan kata-katanya satu per satu, melainkan harus dipahami secara keseluruhan sebagai satu kesatuan.</p>
+  <div style="overflow-x:auto;">
+
+  <table>
+  <tr>
+    <th>No.</th>
+    <th>Idiom</th>
+    <th>Arti</th>
+    <th>Penggunaan</th>
+  </tr>
+
+  <tr><td>1</td><td>A blessing in disguise</td><td>Hal baik yang awalnya terlihat seperti hal buruk</td><td>sebagai bagian dari kalimat</td>
+  <tr><td>2</td><td>A dime a dozen</td><td>Sesuatu yang biasa</td><td>sebagai bagian dari kalimat</td>
+  <tr><td>3</td><td>Beat around the bush</td><td>Menghindari apa yang sebenarnya Anda maksud (biasanya karena tidak nyaman untuk dikatakan)</td><td>sebagai bagian dari kalimat</td>
+  <tr><td>4</td><td>Better late than never</td><td>Lebih baik terlambat daripada tidak sama sekali</td><td>sebagai kalimat sendiri</td>
+  <tr><td>5</td><td>Bite the bullet</td><td>Melakukan sesuatu (biasanya yang tidak disukai) karena tidak dapat dihindari</td><td>sebagai bagian dari kalimat</td>
+  <tr><td>6</td><td>Break a leg</td><td>Semoga beruntung</td><td>sebagai kalimat sendiri</td>
+  <tr><td>7</td><td>Call it a day</td><td>Berhenti mengerjakan atau melakukan sesuatu</td><td>sebagai bagian dari kalimat</td>
+  <tr><td>8</td><td>Cut somebody some slack</td><td>Jangan terlalu banyak mengkritik</td><td>sebagai bagian dari kalimat</td>
+  <tr><td>9</td><td>Cutting corners</td><td>Melakukan sesuatu yang buruk untuk menghemat waktu atau uang</td><td>sebagai bagian dari kalimat</td>
+  <tr><td>10</td><td>Easy does it</td><td>Perlahan-lahan atau santai</td><td>sebagai kalimat sendiri</td>
+  <tr><td>11</td><td>Get out of hand</td><td>Kehilangan kendali</td><td>sebagai bagian dari kalimat</td>
+  <tr><td>12</td><td>Get something out of your system</td><td>Melakukan sesuatu yang sudah lama Anda inginkan agar bisa melanjutkan</td><td>sebagai bagian dari kalimat</td>
+  <tr><td>13</td><td>Get your act together</td><td>Bekerja dengan lebih baik atau keluar</td><td>sebagai kalimat sendiri</td>
+  <tr><td>14</td><td>Give someone the benefit of the doubt</td><td>Memercayai apa yang dikatakan seseorang</td><td>sebagai bagian dari kalimat</td>
+  <tr><td>15</td><td>Go back to the drawing board</td><td>Mulai lagi dari awal</td><td>sebagai bagian dari kalimat</td>
+  <tr><td>16</td><td>Hang in there</td><td>Jangan menyerah</td><td>sebagai kalimat sendiri</td>
+  <tr><td>17</td><td>Hit the sack</td><td>Tidur</td><td>sebagai bagian dari kalimat</td>
+  <tr><td>18</td><td>It's not rocket science</td><td>Tidak rumit</td><td>sebagai kalimat sendiri</td>
+  <tr><td>19</td><td>Let someone off the hook</td><td>Tidak meminta seseorang bertanggung jawab atas sesuatu</td><td>sebagai bagian dari kalimat</td>
+  <tr><td>20</td><td>Make a long story short</td><td>Menceritakan sesuatu dengan singkat</td><td>sebagai bagian dari kalimat</td>
+  <tr><td>21</td><td>Miss the boat</td><td>Sudah terlambat</td><td>sebagai bagian dari kalimat</td>
+  <tr><td>22</td><td>No pain, no gain</td><td>Anda harus berusaha untuk mendapatkan apa yang diinginkan</td><td>sebagai kalimat sendiri</td>
+  <tr><td>23</td><td>On the ball</td><td>Melakukan kerja yang bagus</td><td>sebagai bagian dari kalimat</td>
+  <tr><td>24</td><td>Pull someone's leg</td><td>Bercanda dengan seseorang</td><td>sebagai bagian dari kalimat</td>
+  <tr><td>25</td><td>Pull yourself together</td><td>Menenangkan diri</td><td>sebagai kalimat sendiri</td>
+  <tr><td>26</td><td>So far so good</td><td>Semuanya berjalan lancar sejauh ini</td><td>sebagai kalimat sendiri</td>
+  <tr><td>27</td><td>Speak of the devil</td><td>Orang yang sedang kita bicarakan muncul!</td><td>sebagai kalimat sendiri</td>
+  <tr><td>28</td><td>That's the last straw</td><td>Kesabaran saya sudah habis</td><td>sebagai kalimat sendiri</td>
+  <tr><td>29</td><td>The best of both worlds</td><td>Situasi yang ideal</td><td>sebagai bagian dari kalimat</td>
+  <tr><td>30</td><td>Time flies when you're having fun</td><td>Anda tidak menyadari seberapa cepat sesuatu berakhir saat Anda menikmatinya</td><td>sebagai kalimat sendiri</td>
+  <tr><td>31</td><td>To get bent out of shape</td><td>Marah atau kesal</td><td>sebagai bagian dari kalimat</td>
+  <tr><td>32</td><td>To make matters worse</td><td>Memperburuk masalah</td><td>sebagai bagian dari kalimat</td>
+  <tr><td>33</td><td>Under the weather</td><td>Sakit</td><td>sebagai bagian dari kalimat</td>
+  <tr><td>34</td><td>We'll cross that bridge when we come to it</td><td>Jangan bicarakan masalah itu sekarang</td><td>sebagai kalimat sendiri</td>
+  <tr><td>35</td><td>Wrap your head around something</td><td>Memahami sesuatu yang rumit</td><td>sebagai bagian dari kalimat</td>
+  <tr><td>36</td><td>You can say that again</td><td>Itu benar, saya setuju</td><td>sebagai kalimat sendiri</td>
+  <tr><td>37</td><td>Your guess is as good as mine</td><td>Saya tidak tahu</td><td>sebagai kalimat sendiri</td>
+  <tr><td>38</td><td>A bird in the hand is worth two in the bush</td><td>Apa yang Anda miliki sekarang lebih berharga daripada apa yang mungkin Anda miliki nanti</td><td>sebagai kalimat sendiri</td>
+  <tr><td>39</td><td>A penny for your thoughts</td><td>Ceritakan pada saya apa yang Anda pikirkan</td><td>sebagai kalimat sendiri</td>
+  <tr><td>40</td><td>A penny saved is a penny earned</td><td>Uang yang Anda hemat hari ini dapat digunakan di lain waktu</td><td>sebagai kalimat sendiri</td>
+  <tr><td>41</td><td>A perfect storm</td><td>Situasi terburuk yang mungkin terjadi</td><td>sebagai bagian dari kalimat</td>
+  <tr><td>42</td><td>A picture is worth 1000 words</td><td>Lebih baik menunjukkan atau membuktikan daripada mengatakannya</td><td>sebagai kalimat sendiri</td>
+  <tr><td>43</td><td>Actions speak louder than words</td><td>Memercayai tindakan seseorang dan bukan kata-kata mereka</td><td>sebagai kalimat sendiri</td>
+  <tr><td>44</td><td>Add insult to injury</td><td>Memperburuk situasi</td><td>sebagai bagian dari kalimat</td>
+  <tr><td>45</td><td>Barking up the wrong tree</td><td>Melakukan kesalahan, mencari solusi di tempat yang salah</td><td>sebagai bagian dari kalimat</td>
+  <tr><td>46</td><td>Birds of a feather flock together</td><td>Orang-orang yang serupa atau mirip sering kali menjadi teman (biasanya digunakan untuk sesuatu yang negatif)</td><td>sebagai kalimat sendiri</td>
+  <tr><td>47</td><td>Bite off more than you can chew</td><td>Melakukan sesuatu yang tidak bisa Anda selesaikan</td><td>sebagai bagian dari kalimat</td>
+  <tr><td>48</td><td>Break the ice</td><td>Membuat orang lain merasa lebih nyaman</td><td>sebagai bagian dari kalimat</td>
+  <tr><td>49</td><td>By the skin of your teeth</td><td>Hampir saja</td><td>sebagai bagian dari kalimat</td>
+  <tr><td>50</td><td>Comparing apples to oranges</td><td>Membandingkan dua hal yang tidak bisa dibandingkan</td><td>sebagai bagian dari kalimat</td>
+  <tr><td>51</td><td>Costs an arm and a leg</td><td>Sangat mahal</td><td>sebagai bagian dari kalimat</td>
+  <tr><td>52</td><td>Do something at the drop of a hat</td><td>Melakukan sesuatu tanpa direncanakan sebelumnya</td><td>sebagai bagian dari kalimat</td>
+  <tr><td>53</td><td>Do unto others as you would have them do unto you</td><td>Memperlakukan orang lain dengan adil, juga dikenal sebagai "the Golden Rule"</td><td>sebagai kalimat sendiri</td>
+  <tr><td>54</td><td>Don't count your chickens before they hatch</td><td>Jangan mengandalkan sesuatu yang baik akan terjadi sebelum benar-benar terjadi</td><td>sebagai kalimat sendiri</td>
+  <tr><td>55</td><td>Don't cry over spilt milk</td><td>Tidak ada alasan untuk mengeluhkan sesuatu yang tidak bisa diperbaiki</td><td>sebagai kalimat sendiri</td>
+  <tr><td>56</td><td>Don't give up your day job</td><td>Anda tidak terlalu ahli melakukan ini</td><td>sebagai kalimat sendiri</td>
+  <tr><td>57</td><td>Don't put all your eggs in one basket</td><td>Yang Anda lakukan terlalu berisiko</td><td>sebagai kalimat sendiri</td>
+  <tr><td>58</td><td>Every cloud has a silver lining</td><td>Hal-hal baik terjadi setelah hal-hal buruk</td><td>sebagai kalimat sendiri</td>
+  <tr><td>59</td><td>Get a taste of your own medicine</td><td>Diperlakukan dengan cara yang sama seperti Anda memperlakukan orang lain (bermakna negatif)</td><td>sebagai bagian dari kalimat</td>
+  <tr><td>60</td><td>Give someone the cold shoulder</td><td>Mengabaikan seseorang</td><td>sebagai bagian dari kalimat</td>
+  <tr><td>61</td><td>Go on a wild goose chase</td><td>Melakukan sesuatu yang tidak ada gunanya</td><td>sebagai bagian dari kalimat</td>
+  <tr><td>62</td><td>Good things come to those who wait</td><td>Bersabar</td><td>sebagai kalimat sendiri</td>
+  <tr><td>63</td><td>He has bigger fish to fry</td><td>Dia memiliki sesuatu yang lebih besar untuk diurus atau dipikirkan dibandingkan yang sedang kita bicarakan</td><td>sebagai kalimat sendiri</td>
+  <tr><td>64</td><td>He's a chip off the old block</td><td>Seorang anak mirip dengan ayahnya</td><td>sebagai kalimat sendiri</td>
+  <tr><td>65</td><td>Hit the nail on the head</td><td>Menebak sesuatu yang tepat atau benar</td><td>sebagai kalimat sendiri</td>
+  <tr><td>66</td><td>Ignorance is bliss</td><td>Anda sebaiknya tidak tahu</td><td>sebagai kalimat sendiri</td>
+  <tr><td>67</td><td>It ain't over till the fat lady sings</td><td>Ini belum selesai</td><td>sebagai kalimat sendiri</td>
+  <tr><td>68</td><td>It takes one to know one</td><td>Anda sama buruknya seperti saya</td><td>sebagai kalimat sendiri</td>
+  <tr><td>69</td><td>It's a piece of cake</td><td>Mudah</td><td>sebagai kalimat sendiri</td>
+  <tr><td>70</td><td>It's raining cats and dogs</td><td>Hujan deras</td><td>sebagai kalimat sendiri</td>
+  <tr><td>71</td><td>Kill two birds with one stone</td><td>Melakukan dua hal dengan satu tindakan</td><td>sebagai kalimat sendiri</td>
+  <tr><td>72</td><td>Let the cat out of the bag</td><td>Membuka rahasia</td><td>sebagai bagian dari kalimat</td>
+  <tr><td>73</td><td>Live and learn</td><td>Saya melakukan kesalahan</td><td>sebagai kalimat sendiri</td>
+  <tr><td>74</td><td>Look before you leap</td><td>Hanya mengambil risiko yang sudah diperhitungkan</td><td>sebagai kalimat sendiri</td>
+  <tr><td>75</td><td>On thin ice</td><td>Dalam masa percobaan. Jika Anda melakukan kesalahan lain, akan ada masalah.</td><td>sebagai bagian dari kalimat</td>
+  <tr><td>76</td><td>Once in a blue moon</td><td>Jarang</td><td>sebagai bagian dari kalimat</td>
+  <tr><td>77</td><td>Play devil's advocate</td><td>Menentang atau memperdebatkan sesuatu yang bertentangan demi perdebatan yang lebih baik</td><td>sebagai bagian dari kalimat</td>
+  <tr><td>78</td><td>Put something on ice</td><td>Menangguhkan suatu proyek</td><td>sebagai bagian dari kalimat</td>
+  <tr><td>79</td><td>Rain on someone's parade</td><td>Merusak atau mengganggu sesuatu</td><td>sebagai bagian dari kalimat</td>
+  <tr><td>80</td><td>Saving for a rainy day</td><td>Menghemat uang untuk nanti</td><td>sebagai bagian dari kalimat</td>
+  <tr><td>81</td><td>Slow and steady wins the race</td><td>Keandalan atau kepastian lebih penting daripada kecepatan</td><td>sebagai kalimat sendiri</td>
+  <tr><td>82</td><td>Spill the beans</td><td>Membuka rahasia</td><td>sebagai bagian dari kalimat</td>
+  <tr><td>83</td><td>Take a rain check</td><td>Menunda rencana</td><td>sebagai bagian dari kalimat</td>
+  <tr><td>84</td><td>Take it with a grain of salt</td><td>Jangan dianggap serius</td><td>sebagai bagian dari kalimat</td>
+  <tr><td>85</td><td>The ball is in your court</td><td>Andalah yang memutuskan</td><td>sebagai kalimat sendiri</td>
+  <tr><td>86</td><td>The best thing since sliced bread</td><td>Penemuan yang sangat bagus</td><td>sebagai bagian dari kalimat</td>
+  <tr><td>87</td><td>The devil is in the details</td><td>Kelihatannya bagus dari kejauhan, tetapi ketika didekati, ada masalah</td><td>sebagai kalimat sendiri</td>
+  <tr><td>88</td><td>The early bird gets the worm</td><td>Orang pertama yang datang akan mendapatkan yang terbaik</td><td>sebagai kalimat sendiri</td>
+  <tr><td>89</td><td>The elephant in the room</td><td>Masalah besar, masalah yang dihindari oleh banyak orang</td><td>sebagai bagian dari kalimat</td>
+  <tr><td>90</td><td>The whole nine yards</td><td>Semuanya</td><td>sebagai bagian dari kalimat</td>
+  <tr><td>91</td><td>There are other fish in the sea</td><td>Tidak apa-apa melewatkan kesempatan, akan ada kesempatan lainnya</td><td>sebagai kalimat sendiri</td>
+  <tr><td>92</td><td>There's a method to his madness</td><td>Dia terlihat gila, tetapi sebenarnya cerdas</td><td>sebagai kalimat sendiri</td>
+  <tr><td>93</td><td>There's no such thing as a free lunch</td><td>Tidak ada sesuatu yang sepenuhnya gratis</td><td>sebagai kalimat sendiri</td>
+  <tr><td>94</td><td>Throw caution to the wind</td><td>Mengambil risiko</td><td>sebagai bagian dari kalimat</td>
+  <tr><td>95</td><td>You can't have your cake and eat it too</td><td>Anda tidak dapat memiliki semuanya</td><td>sebagai kalimat sendiri</td>
+  <tr><td>96</td><td>You can't judge a book by its cover</td><td>Orang atau benda ini mungkin terlihat buruk, tetapi sebenarnya baik</td><td>sebagai kalimat sendiri</td>
+  <tr><td>97</td><td>A little learning is a dangerous thing</td><td>Seseorang yang tidak memahami sesuatu sepenuhnya sangat berbahaya</td><td>sebagai kalimat sendiri</td>
+  <tr><td>98</td><td>A snowball effect</td><td>Kejadian memiliki momentum dan berkaitan satu sama lain</td><td>sebagai bagian dari kalimat</td>
+  <tr><td>99</td><td>A snowball's chance in hell</td><td>Tidak mungkin sama sekali</td><td>sebagai bagian dari kalimat</td>
+  <tr><td>100</td><td>A stitch in time saves nine</td><td>Perbaiki atau selesaikan masalah sekarang karena masalah akan menjadi lebih buruk nantinya</td><td>sebagai kalimat sendiri</td>
+  <tr><td>101</td><td>A storm in a teacup</td><td>Kehebohan besar karena masalah kecil</td><td>sebagai bagian dari kalimat</td>
+  <tr><td>102</td><td>An apple a day keeps the doctor away</td><td>Apel baik untuk kesehatan Anda</td><td>sebagai kalimat sendiri</td>
+  <tr><td>103</td><td>An ounce of prevention is worth a pound of cure</td><td>Anda dapat mencegah masalah dengan sedikit usaha; memperbaiki atau menyelesaikannya nanti lebih sulit dilakukan</td><td>sebagai kalimat sendiri</td>
+  <tr><td>104</td><td>As right as rain</td><td>Sempurna</td><td>sebagai bagian dari kalimat</td>
+  <tr><td>105</td><td>Bolt from the blue</td><td>Sesuatu yang terjadi tanpa peringatan</td><td>sebagai bagian dari kalimat</td>
+  <tr><td>106</td><td>Burn bridges</td><td>Menghancurkan hubungan</td><td>sebagai bagian dari kalimat</td>
+  <tr><td>107</td><td>Calm before the storm</td><td>Sesuatu yang buruk akan terjadi, tetapi sekarang masih belum terjadi apa pun</td><td>sebagai bagian dari kalimat</td>
+  <tr><td>108</td><td>Come rain or shine</td><td>Tidak peduli apa pun yang terjadi</td><td>sebagai bagian dari kalimat</td>
+  <tr><td>109</td><td>Curiosity killed the cat</td><td>Berhenti bertanya</td><td>sebagai kalimat sendiri</td>
+  <tr><td>110</td><td>Cut the mustard</td><td>Melakukan kerja yang bagus</td><td>sebagai bagian dari kalimat</td>
+  <tr><td>111</td><td>Don't beat a dead horse</td><td>Jangan melakukan sesuatu yang sudah berakhir</td><td>sebagai kalimat sendiri</td>
+  <tr><td>112</td><td>Every dog has his day</td><td>Setiap orang memiliki kesempatan setidaknya sekali</td><td>sebagai kalimat sendiri</td>
+  <tr><td>113</td><td>Familiarity breeds contempt</td><td>Semakin Anda mengenal seseorang, semakin Anda tidak menyukai dia</td><td>sebagai kalimat sendiri</td>
+  <tr><td>114</td><td>Fit as a fiddle</td><td>Dalam kondisi yang sehat</td><td>sebagai bagian dari kalimat</td>
+  <tr><td>115</td><td>Fortune favours the bold</td><td>Mengambil risiko</td><td>sebagai kalimat sendiri</td>
+  <tr><td>116</td><td>Get a second wind</td><td>Memiliki tenaga setelah kelelahan</td><td>sebagai bagian dari kalimat</td>
+  <tr><td>117</td><td>Get wind of something</td><td>Mendengar suatu berita yang rahasia</td><td>sebagai bagian dari kalimat</td>
+  <tr><td>118</td><td>Go down in flames</td><td>Gagal dengan sangat parah</td><td>sebagai bagian dari kalimat</td>
+  <tr><td>119</td><td>Haste makes waste</td><td>Anda akan melakukan kesalahan jika terburu-buru melakukan sesuatu</td><td>sebagai kalimat sendiri</td>
+  <tr><td>120</td><td>Have your head in the clouds</td><td>Tidak konsentrasi</td><td>sebagai bagian dari kalimat</td>
+  <tr><td>121</td><td>He who laughs last laughs loudest</td><td>Saya akan membalas apa yang sudah Anda lakukan</td><td>sebagai kalimat sendiri</td>
+  <tr><td>122</td><td>Hear something straight from the horse's mouth</td><td>Mendengar sesuatu langsung dari orang-orang yang terlibat</td><td>sebagai bagian dari kalimat</td>
+  <tr><td>123</td><td>He's not playing with a full deck</td><td>Dia bodoh</td><td>sebagai kalimat sendiri</td>
+  <tr><td>124</td><td>He's off his rocker</td><td>Dia gila</td><td>sebagai kalimat sendiri</td>
+  <tr><td>125</td><td>He's sitting on the fence</td><td>Dia tidak bisa memutuskan</td><td>sebagai kalimat sendiri</td>
+  <tr><td>126</td><td>It is a poor workman who blames his tools</td><td>Jika Anda tidak bisa melakukan sesuatu, jangan menyalahkan orang lain</td><td>sebagai kalimat sendiri</td>
+  <tr><td>127</td><td>It is always darkest before the dawn</td><td>Semuanya akan menjadi lebih baik</td><td>sebagai kalimat sendiri</td>
+  <tr><td>128</td><td>It takes two to tango</td><td>Tidak hanya satu orang yang bertanggung jawab, keduanya terlibat</td><td>sebagai kalimat sendiri</td>
+  <tr><td>129</td><td>Jump on the bandwagon</td><td>Mengikuti tren, melakukan apa yang dilakukan oleh orang lain</td><td>sebagai bagian dari kalimat</td>
+  <tr><td>130</td><td>Know which way the wind is blowing</td><td>Memahami situasinya (biasanya bermakna negatif)</td><td>sebagai bagian dari kalimat</td>
+  <tr><td>131</td><td>Leave no stone unturned</td><td>Memeriksa semua tempat</td><td>sebagai bagian dari kalimat</td>
+  <tr><td>132</td><td>Let sleeping dogs lie</td><td>Berhenti membahas suatu isu atau masalah</td><td>sebagai bagian dari kalimat</td>
+  <tr><td>133</td><td>Like riding a bicycle</td><td>Sesuatu yang tidak pernah Anda lupakan cara melakukannya</td><td>sebagai bagian dari kalimat</td>
+  <tr><td>134</td><td>Like two peas in a pod</td><td>Mereka selalu bersama</td><td>sebagai bagian dari kalimat</td>
+  <tr><td>135</td><td>Make hay while the sun shines</td><td>Memanfaatkan situasi yang baik</td><td>sebagai bagian dari kalimat</td>
+  <tr><td>136</td><td>On cloud nine</td><td>Sangat senang</td><td>sebagai bagian dari kalimat</td>
+  <tr><td>137</td><td>Once bitten, twice shy</td><td>Anda lebih berhati-hati ketika sudah terluka sebelumnya</td><td>sebagai kalimat sendiri</td>
+  <tr><td>138</td><td>Out of the frying pan and into the fire</td><td>Sesuatu yang buruk menjadi lebih buruk</td><td>sebagai kalimat sendiri</td>
+  <tr><td>139</td><td>Run like the wind</td><td>Berlari dengan cepat</td><td>sebagai bagian dari kalimat</td>
+  <tr><td>140</td><td>Shape up or ship out</td><td>Bekerja dengan lebih baik atau keluar</td><td>sebagai kalimat sendiri</td>
+  <tr><td>141</td><td>Snowed under</td><td>Sibuk</td><td>sebagai bagian dari kalimat</td>
+  <tr><td>142</td><td>That ship has sailed</td><td>Sudah terlambat</td><td>sebagai kalimat sendiri</td>
+  <tr><td>143</td><td>The pot calling the kettle black</td><td>Seseorang yang mengkritik orang lain padahal dia juga sama buruknya</td><td>sebagai bagian dari kalimat</td>
+  <tr><td>144</td><td>There are clouds on the horizon</td><td>Akan ada masalah</td><td>sebagai kalimat sendiri</td>
+  <tr><td>145</td><td>Those who live in glass houses shouldn't throw stones</td><td>Orang-orang yang moralnya dipertanyakan sebaiknya tidak mengkritik orang lain</td><td>sebagai kalimat sendiri</td>
+  <tr><td>146</td><td>Through thick and thin</td><td>Di masa-masa indah dan di masa-masa sulit</td><td>sebagai bagian dari kalimat</td>
+  <tr><td>147</td><td>Time is money</td><td>Bekerja dengan cepat</td><td>sebagai kalimat sendiri</td>
+  <tr><td>148</td><td>Waste not, want not</td><td>Jangan menyia-nyiakan sesuatu, maka Anda akan selalu berkecukupan</td><td>sebagai kalimat sendiri</td>
+  <tr><td>149</td><td>We see eye to eye</td><td>Kita setuju</td><td>sebagai kalimat sendiri</td>
+  <tr><td>150</td><td>Weather the storm</td><td>Melalui sesuatu yang sulit</td><td>sebagai bagian dari kalimat</td>
+  <tr><td>151</td><td>Well begun is half done</td><td>Awal yang baik sangatlah penting</td><td>sebagai kalimat sendiri</td>
+  <tr><td>152</td><td>When it rains it pours</td><td>Kesialan biasanya datang bersamaan atau sekaligus</td><td>sebagai kalimat sendiri</td>
+  <tr><td>153</td><td>You can catch more flies with honey than you can with vinegar</td><td>Anda akan memperoleh apa yang diinginkan dengan bersikap baik</td><td>sebagai kalimat sendiri</td>
+  <tr><td>154</td><td>You can lead a horse to water, but you can't make him drink</td><td>Anda tidak bisa memaksa seseorang untuk mengambil keputusan yang tepat</td><td>sebagai kalimat sendiri</td>
+  <tr><td>155</td><td>You can't make an omelet without breaking some eggs</td><td>Selalu ada biaya yang harus dikeluarkan untuk melakukan sesuatu</td><td>sebagai kalimat sendiri</td>
+  `,
+};
 
 function showContent(type) {
   const area = document.getElementById('contentArea');
   area.innerHTML = content[type];
 }
+
+
+function showContent(type) {
+  const area = document.getElementById('contentArea');
+  area.innerHTML = content[type];
+}
+
