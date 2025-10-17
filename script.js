@@ -565,8 +565,3 @@ function showContent(type) {
 }
 
 
-function showContent(type) {
-  const area = document.getElementById('contentArea');
-  area.innerHTML = content[type];
-}
-
