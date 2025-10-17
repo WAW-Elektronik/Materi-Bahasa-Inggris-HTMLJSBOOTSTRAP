@@ -11,7 +11,7 @@ const content = {
     <th>Auxiliary Verb</th>
     <th>Contoh</th>
   </tr>
-  <tr><td>1</td><td>Simple Present</td><td>Verbal <br> (+) Subject + V1 <br> (-) Subject + do/does + not + V1 <br> (?) Do/does + Subject + V1? <br> <br> Nominal <br>(+) Subject + To Be + Non Verb <br>(+) Subject + Auxiliary Verb + Be + Non Verb <br>(-) Subject + To Be + Non Verb <br> (?) To Be + Subject + Non Verb? <br> (?) Question Word + To Be + Subject? </td><td>do/does</td><td>Verbal<br>(+) She plays football.<br>(-) She does not play football.<br>(?) Does she play football?<br><br>Nominal<br>(+) She is a doctor<br>(+) She can be ill <br>(-) She is not a doctor<br>(?) Is she a doctor? <br> (?) Where is your brother? </td></tr>
+  <tr><td>1</td><td>Simple Present</td><td>(+) Subject + V1 <br> (-) Subject + do/does + not + V1 <br> (?) Do/does + Subject + V1?</td><td>do/does</td><td>She plays football.<br>She does not play football.<br>Does she play football?</td></tr>
   <tr><td>2</td><td>Present Continuous</td><td>(+) Subject + am/is/are + V-ing <br> (-) Subject + am/is/are + not + V-ing <br> (?) am/is/are + Subject + V-ing?</td><td>am, is, are</td><td>I am eating lunch.<br>I am not eating lunch.<br>Am I eating lunch?</td></tr>
   <tr><td>3</td><td>Present Perfect</td><td>(+) Subject + has/have + V3 <br> (-) Subject + has/have + not + V3 <br> (?) has/have + Subject + V3?</td><td>has, have</td><td>He has finished the task.<br>He has not finished the task.<br>Has he finished the task?</td></tr>
   <tr><td>4</td><td>Present Perfect Continuous</td><td>(+) Subject + has/have been + V-ing <br> (-) Subject + has/have not been + V-ing <br> (?) has/have + Subject + been + V-ing?</td><td>has been, have been</td><td>We have been studying.<br>We have not been studying.<br>Have we been studying?</td></tr>
@@ -75,29 +75,17 @@ const content = {
     <h2>Modal Auxiliary Verbs</h2>
     <p>Digunakan untuk menunjukkan kemungkinan, kemampuan, izin, keharusan, dll.</p>
     <table>
-        <tr><th>Modal</th><th>Makna</th><th>Fungsi</th><th>Struktur</th><th>Contoh</th></tr>
-        <tr><td>can	</td><td>kemampuan, izin</td><td>Menyatakan kemampuan (ability) <br>Meminta atau memberi izin (permission)</td><td>(+)Subject + can + verb 1<br>(-)Subject + cannot/can’t + verb 1<br>(?)Can + subject + verb 1?</td><td>She can swim very fast. (kemampuan)<br>Can I go to the bathroom? (izin)<br>He can’t speak French.?
-        <tr><td>could	</td><td>kemampuan lampau, kemungkinan	</td><td>Kemampuan masa lalu<br>Kemungkinan (lebih lemah dari may/might)<br>Permintaan sopan</td><td>Sama dengan can, hanya digunakan dalam konteks lampau atau lebih formal</td><td>When I was young, I could run very fast. (kemampuan lampau)<br>It could rain later. (kemungkinan)<br>Could you help me, please? (permintaan sopan).
-        <tr><td>may	</td><td>kemungkinan, izin	</td><td>Menyatakan kemungkinan (lebih formal atau kuat dari might)<br>Meminta / memberi izin secara sopan</td><td>Sama seperti can, tapi lebih formal</td><td>May I come in? (izin formal)<br>It may rain this evening. (kemungkinan)
-        <tr><td>might	</td><td>kemungkinan kecil	</td><td>Menyatakan kemungkinan yang lebih kecil dari may<br>Bentuk lampau dari may dalam kalimat tidak langsung</td><td>Subject + might + verb 1</td><td>We might be late. (kemungkinan kecil)<br>She said she might go to the party. (reported speech)
-        <tr><td>must	</td><td>keharusan kuat	</td><td>Menyatakan keharusan (lebih kuat dari should)<br>Menyatakan kesimpulan logis (deduksi)</td><td>Subject + must + verb 1</td><td>You must wear a helmet. (keharusan)<br>He must be tired after the long trip. (deduksi logis)
-        <tr><td>shall	</td><td>tawaran, masa depan	</td><td>Tawaran sopan (hanya untuk I/we)<br>Menyatakan niat atau masa depan (lebih formal dari will)</td><td>Shall + I/we + verb 1</td><td>Shall we begin the meeting? (tawaran)<br>Shall I open the window?
-        <tr><td>should	</td><td>saran, keharusan	</td><td>Memberikan nasihat atau rekomendasi<br>Menyatakan kewajiban ringan<br>Menyatakan harapan atau dugaan</td><td>Subject + should + verb 1</td><td>You should see a doctor. (saran)<br>Students should arrive on time. (kewajiban ringan)<br>He should be home by now. (dugaan)
-        <tr><td>will	</td><td>masa depan, niat	</td><td>Menyatakan keputusan spontan, janji, prediksi<br>Digunakan dalam bentuk future simple</td><td>Subject + will + verb 1</td><td>I will call you later. (janji)<br>It will be sunny tomorrow. (prediksi)
-        <tr><td>would	</td><td>Conditional / bentuk lampau dari will / Permintaan sopan</td><td>Digunakan dalam conditional sentence type 2/3<br>Bentuk lampau dari will<br>Permintaan lebih sopan dari could</td><td>Subject + would + verb 1</td><td>I would help you if I had time. (conditional)<br>He said he would call later. (reported speech)<br>Would you like some coffee? (tawaran sopan)
+        <tr><th>Modal</th><th>Makna</th><th>Contoh</th></tr>
+        <tr><td>can	</td><td>kemampuan, izin	</td><td>She can swim. / Can I come in?
+        <tr><td>could	</td><td>kemampuan lampau, kemungkinan	</td><td>He could run fast.
+        <tr><td>may	</td><td>kemungkinan, izin	</td><td>It may rain. / May I help you?
+        <tr><td>might	</td><td>kemungkinan kecil	</td><td>We might be late.
+        <tr><td>must	</td><td>keharusan kuat	</td><td>You must wear a helmet.
+        <tr><td>shall	</td><td>tawaran, masa depan	</td><td>Shall we begin?
+        <tr><td>should	</td><td>saran, keharusan	</td><td>You should see a doctor.
+        <tr><td>will	</td><td>masa depan, niat	</td><td>I will call you tomorrow.
+        <tr><td>would	</td><td>bentuk lampau dari will/conditional	</td><td>I would go if I could.
     </table>
-
-    <p>Kenapa Harus Verb 1?<br>
-       Modal verbs sudah membawa waktu/nuansa sendiri (kemampuan, kemungkinan, masa depan, dll.), sehingga kata kerja yang mengikutinya tidak perlu diubah bentuknya lagi. Modal + verb 1 sudah cukup untuk menyampaikan makna.<br>
-       </p>
-    <p>Catatan Khusus:<br>
-       Jika modal verb diikuti oleh bentuk perfect atau continuous, maka struktur tambahannya adalah:</p>
-       <table>
-          <tr><th>Bentuk Lanjutan</th><th>Struktur</th><th>Contoh Kalimat</th>
-          <tr><td>Perfect	</td><td>Modal + have + V3	</td><td>She must have forgotten.
-          <tr><td>Continuous	</td><td>Modal + be + V-ing	</td><td>He might be sleeping.
-          <tr><td>Passive	</td><td>Modal + be + V3 (pasif)	</td><td>The work should be finished by now.
-       </table>
   `,
 
   semi: `
@@ -122,25 +110,6 @@ const content = {
     </table>
   `,
 
-  ConditionalSentences:`
-    <h2>Conditiional Sentences</h2>
-  <p><b>Conditional Sentences</b> adalah jenis kalimat yang digunakan untuk menyatakan kemungkinan, kondisi, atau pengandaian tentang suatu kejadian atau tindakan.</p>
-  <div style="overflow-x:auto;">
-  <table>
-   <tr>
-    <th>Tipe Conditional Sentences</th>
-    <th>Fungsi</th>
-    <th>Struktur</th>
-    <th>Contoh</th>
-  </tr>
-  <tr><td>Zero Conditional</td><td>Fakta umum, kebenaran ilmiah.</td><td>If + Simple Present, Simple Present</td><td>If you heat water to 100°C, it boils.<br>If it rains, the ground gets wet.</td><td>
-  <tr><td>First Conditional</td><td>Kemungkinan nyata di masa depan.</td><td>If + Simple Present, will + Verb 1</td><td>If I study hard, I will pass the exam.<br>If it rains tomorrow, we will cancel the trip.</td><td>
-  <tr><td>Second Conditional</td><td>Situasi tidak nyata (hipotetik) di masa sekarang atau masa depan.</td><td>If + Simple Past, would + Verb 1</td><td>If I were rich, I would travel the world.<br>If she studied, she would pass.<br>Catatan: “were” sering digunakan untuk semua subjek dalam bentuk formal.</td><td>
-  <tr><td>Third Conditional</td><td>Penyesalan atau situasi tidak nyata di masa lalu.</td><td>If + Past Perfect, would have + V3</td><td>If I had studied, I would have passed the exam.<br>If it had rained, the match would have been canceled.</td><td>
-  <tr><td>Mixed Conditional</td><td>Campuran antara kondisi masa lalu dan akibat di masa sekarang, atau sebaliknya.</td><td>Past → Present (Efek sekarang dari kejadian masa lalu)<br>If + Past Perfect, would + Verb 1</td><td>If I had studied medicine, I would be a doctor now.</td><td>
-  <tr><td></td><td></td><td>Present → Past (Efek masa lalu dari kondisi sekarang)<br>If + Simple Past, would have + V3</td><td>If I were taller, I would have joined the basketball team.</td><td>
-  `,
-  
   timeexpressions: `
     <h2>Time Expressions</h2>
 <p><b>Time Expressions</b> adalah penempatan waktu yang digunakan sesuai dengan tenses.</p>
@@ -273,7 +242,7 @@ timebreame: `
 PhrasalVerb:`
   <h2>Phrasal Verb</h2>
   <p>Phrasal Verb adalah konstruksi frasa yang terdiri dari kata kerja (verb) yang diikuti oleh satu atau lebih kata depan (preposition) atau adverbia (adverb). Phrasal verb cenderung memiliki makna khusus yang tidak dapat dipahami hanya dengan merinci makna kata kerja dan kata depan atau adverbia yang membentuknya.</p>
-  <div style="overflow-x:auto;">
+  <div style="overflow-x:auto;"></div>
   
   <h2>Phrasal verb punya beberapa fungsi dan kegunaan.</h2>
   <table>
@@ -291,7 +260,6 @@ PhrasalVerb:`
   <tr><td>7</td><td>Pewarisan Kultural</td><td>mencerminkan pewarisan kultural dan kebiasaan berbahasa dalam suatu masyarakat. Memahami penggunaan phrasal verb dapat memberikan wawasan tentang cara berbicara dan berkomunikasi dalam suatu budaya.</td>
   <tr><td>8</td><td>Menghindari Kebosanan dalam Bahasa</td><td>memberikan variasi dan kreativitas dalam penggunaan kata kerja, membantu menghindari kebosanan dalam bahasa dan memberikan warna yang berbeda dalam komunikasi.</td>
   </table>
-  </div>
 
   <h2>Struktur Kalimat Phrasal Verb.</h2>
   <table>
@@ -307,7 +275,6 @@ PhrasalVerb:`
   <tr><td>4</td><td>Kata Kerja + Kata Depan + Objek + Kata Depan</td><td>Subyek + Kata Kerja + Kata Depan + Objek + Kata Depan</td><td>We need to catch up on our work during the weekend.</td>
   <tr><td>5</td><td>Kata Kerja + Kata Depan + Objek + Kata Depan</td><td>Subyek + Kata Kerja + Objek + Kata Depan + Objek</td><td>She handed in her assignment to the teacher.</td>
   </table>
-  </div>
     <br> Perhatikan bahwa nggak semua phrasal verb memerlukan objek. Beberapa phrasal verb dapat digunakan tanpa objek, tergantung pada konteksnya. Pemahaman konteks dan makna phrasal verb tertentu akan membantu dalam memilih struktur kalimat yang sesuai.
 
   <h2>Contoh Phrasal Verb.</h2>
@@ -347,6 +314,7 @@ PhrasalVerb:`
   <tr><td>28</td><td>Turn around</td><td>Berbalik atau mengubah arah</td>
   <tr><td>29</td><td>Check out</td><td>Mengecek atau memeriksa sesuatu</td>
   <tr><td>30</td><td>Get in</td><td>Masuk ke dalam suatu tempat atau kendaraan</td>
+  </table>
 
   <h2>Contoh Kalimat Phrasal Verb.</h2>
   <table>
@@ -386,12 +354,13 @@ PhrasalVerb:`
   <tr><td>28</td><td>Turn around</td><td>The economy started to turn around after the implementation of new policies</td><td>Ekonomi mulai membaik setelah penerapan kebijakan baru</td>
   <tr><td>29</td><td>Check out</td><td>Before leaving the hotel, make sure to check out at the front desk</td><td>Sebelum meninggalkan hotel, pastikan untuk check out di meja depan</td>
   <tr><td>30</td><td>Get in</td><td>We need to get in the car and leave before the traffic gets worse</td><td>Kita perlu masuk ke mobil dan pergi sebelum lalu lintas semakin parah</td>
-`,
+  </table>
+  `,
 
 Idiom:`
   <h2>Idiom</h2>
   <p>Idiom adalah sekelompok kata atau frasa yang memiliki makna kiasan, berbeda dari makna harfiah dari setiap kata penyusunnya. Makna idiom tidak bisa diuraikan hanya dengan mendefinisikan kata-katanya satu per satu, melainkan harus dipahami secara keseluruhan sebagai satu kesatuan.</p>
-  <div style="overflow-x:auto;">
+  <div style="overflow-x:auto;"></div>
 
   <table>
   <tr>
@@ -556,6 +525,7 @@ Idiom:`
   <tr><td>153</td><td>You can catch more flies with honey than you can with vinegar</td><td>Anda akan memperoleh apa yang diinginkan dengan bersikap baik</td><td>sebagai kalimat sendiri</td>
   <tr><td>154</td><td>You can lead a horse to water, but you can't make him drink</td><td>Anda tidak bisa memaksa seseorang untuk mengambil keputusan yang tepat</td><td>sebagai kalimat sendiri</td>
   <tr><td>155</td><td>You can't make an omelet without breaking some eggs</td><td>Selalu ada biaya yang harus dikeluarkan untuk melakukan sesuatu</td><td>sebagai kalimat sendiri</td>
+  </table>
   `,
 };
 
@@ -563,5 +533,8 @@ function showContent(type) {
   const area = document.getElementById('contentArea');
   area.innerHTML = content[type];
 }
+
+
+
 
 
